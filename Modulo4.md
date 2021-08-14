@@ -22,14 +22,36 @@ Conceptos clave:
 - El nombre de dominio lo tiene que apegar conforme a la disonibilidad.
 
 ## 4. Cómo publicar un sitio web: Alojamiento (hosting) (2/3)
+Los servidores dedicados son la forma más avanzada de alojamiento web: se alquila un servidor completo para uso exclusivo, disponiendo de un control completo sobre el servidor. En el Housing o Colocation la empresa de alojamiento proporciona sistemas de alimentación ininterrumpida, controla la temperatura ambiental y proporciona la conectividad a Internet, estos últimos son ideales para los clientes que tienen su propia plataforma tecnológica y que desean alojarla en unas instalaciones adecuadas con una conectividad de calidad.
 
 Conceptos clave:
-- 
+- alojamiento gratuito Para peubas
+- pago
+* Compartido: se reducen lps costos:
+* Servidor virtual privado:
+* Servidor dedicado:
+* Housting: plataforma tecnologica propia.
+* En la nube: Seguro, flexible.
+
+- Google sites, blogger
 
 ## 5. Cómo publicar un sitio web: Alojamiento (hosting) (3/3)
-
+Normalmente, aunque no es obligatorio que sea así, cuando usemos Linux se tiene como servidor web Apache y cuando sea Windows tendremos Internet Information Server (ISS). La decisión sobre qué sistema operativo elegir depende del lenguaje de programación y de los servicios adicionales que se quieran utilizar. Con Linux la base de datos será MySQL y PostgreSQL y para Windows, Microsoft Access y Miscrosoft SQL Server. PHP es el lenguaje a nivel de servidor más usado en la web, acaparando el 82,5% de cuota a nivel mundial. También es conocida su larga trayectoria en combinación con MySQL.
 Conceptos clave:
-- 
+
+Criterios:
+* Calidad: Resolver lo que se pide.
+* Sistema Operativo
+* Almacenamiento: Espacio web o espacio en disco
+-  numPag x Tamaño medio de la página(peso ``css, html, javascript, directorios``)
+* Transferencia,(que tan rapida es).
+ - num Viistantes Diarios x NumDe paginas vistas x Tamaño medio de la pagina x 30 días
+
+*Lenguajes en maquina Linux:
+php,python
+Perl
+Javascript.
+
 
 ## 6. Cómo se publica un sitio web en Internet (1)
 
